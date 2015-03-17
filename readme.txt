@@ -2,7 +2,7 @@
 Contributors: opajaap
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-Plus&item_number=Support-Open-Source&currency_code=USD&lc=US
 Tags: wppa, langage, translation
-Version: 5.4.25
+Version: 5.5.4
 Stable tag: trunk
 Author: J.N. Breetvelt
 Author URI: http://www.opajaap.nl/
@@ -48,6 +48,9 @@ If you configured poedit as such, it will also produce a .mo file when you save 
 Place the .mo file in your version of this plugin on the server to test it on your websites wppa+ admin pages.
 
 == Changelog ==
+
+= 5.5.4 =
+* Updated to wppa+ version 5.5.4
 
 = 5.4.25 =
 * Updated to wppa+ version 5.4.25
