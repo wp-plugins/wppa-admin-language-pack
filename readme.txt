@@ -1,7 +1,7 @@
 === Wppa Admin Language Pack ===
 Contributors: opajaap
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=OpaJaap@OpaJaap.nl&item_name=WP-Photo-Album-Plus&item_number=Support-Open-Source&currency_code=USD&lc=US
-Tags: wppa, langage, translation
+Tags: wppa, language, translation, wp-photo-album-plus
 Version: 5.5.4
 Stable tag: trunk
 Author: J.N. Breetvelt
